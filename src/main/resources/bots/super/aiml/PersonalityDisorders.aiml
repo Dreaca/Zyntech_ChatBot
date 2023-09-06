@@ -1,0 +1,30 @@
+<aiml version="1.0">
+  <category>
+    <pattern>TELL ME ABOUT PERSONALITY DISORDERS</pattern>
+    <template>
+      Personality disorders are mental health conditions characterized by patterns of thought, behavior, and emotional responses that differ from societal norms. If you suspect you have a personality disorder or know someone who does, seeking professional evaluation and treatment is important.
+    </template>
+  </category>
+  
+  <category>
+    <pattern>I THINK I HAVE A PERSONALITY DISORDER</pattern>
+    <template>
+      Recognizing your feelings is an important step. If you believe you have a personality disorder, consider reaching out to a mental health professional. They can provide a proper diagnosis and work with you to develop effective strategies for managing your symptoms.
+    </template>
+  </category>
+  
+  <category>
+    <pattern>HELP FOR BORDERLINE PERSONALITY DISORDER</pattern>
+    <template>
+      Borderline Personality Disorder can be challenging, but there's help available. Therapy, such as Dialectical Behavior Therapy (DBT), has shown to be effective in managing symptoms. Remember, seeking treatment is a positive step towards improving your well-being.
+    </template>
+  </category>
+  
+  <category>
+    <pattern>DEALING WITH NARCISSISTIC TRAITS</pattern>
+    <template>
+      If you're dealing with narcissistic traits that are causing distress, therapy can provide a safe space to explore your emotions and behaviors. Remember that change is possible with the right support and commitment to personal growth.
+    </template>
+  </category>
+</aiml>
+

@@ -1,0 +1,39 @@
+<aiml>
+    <category>
+        <pattern>DEALING WITH SMOKING ADDICTION</pattern>
+        <template>Smoking addiction can have serious health consequences. If you or someone you know is struggling with smoking addiction, seeking support and professional help is important.</template>
+    </category>
+    <category>
+        <pattern>UNDERSTANDING SMOKING ADDICTION</pattern>
+        <template>Smoking addiction is a powerful dependency on nicotine, a highly addictive substance found in tobacco products. It's important to recognize the physical and psychological aspects of addiction.</template>
+    </category>
+    <category>
+        <pattern>GETTING HELP TO QUIT SMOKING</pattern>
+        <template>If you're looking to quit smoking, there are resources available to help you. Consider seeking assistance from healthcare professionals, support groups, and quitlines.</template>
+    </category>
+    <category>
+        <pattern>QUITTING STRATEGIES</pattern>
+        <template>Quitting smoking requires a plan and commitment. Consider using strategies such as nicotine replacement therapy, medications, counseling, and finding healthy alternatives to cope with cravings.</template>
+    </category>
+    <category>
+        <pattern>MANAGING CRAVINGS</pattern>
+        <template>Cravings can be challenging during the quitting process. Distract yourself with activities, practice deep breathing, and remind yourself of the benefits of quitting.</template>
+    </category>
+    <category>
+        <pattern>RELAPSE PREVENTION</pattern>
+        <template>Preventing relapse is crucial. Identify triggers that make you want to smoke and develop coping strategies. If you slip, don't be discouraged; use it as a learning opportunity to strengthen your commitment.</template>
+    </category>
+    <category>
+        <pattern>PROFESSIONAL SUPPORT</pattern>
+        <template>Seeking professional guidance is important when quitting smoking. Healthcare providers can offer personalized advice and recommend appropriate treatments to support your journey.</template>
+    </category>
+    <category>
+        <pattern>RESOURCES TO QUIT SMOKING</pattern>
+        <template>There are various resources available to help you quit smoking, including smoking cessation programs, apps, online forums, and helplines. Explore these options to find what works for you.</template>
+    </category>
+    <category>
+        <pattern>CELEBRATING SUCCESS</pattern>
+        <template>Celebrate your milestones as you make progress in quitting smoking. Recognize the positive impact on your health and well-being, and reward yourself for your achievements.</template>
+    </category>
+</aiml>
+

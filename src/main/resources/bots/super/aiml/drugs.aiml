@@ -1,0 +1,39 @@
+<aiml>
+    <category>
+        <pattern>DEALING WITH * ADDICTION</pattern>
+        <template><srai>DEALING WITH DRUG ADDICTION</srai></template>
+    </category>
+    <category>
+        <pattern>UNDERSTANDING * ADDICTION</pattern>
+        <template><srai>UNDERSTANDING ADDICTION</srai></template>
+    </category>
+    <category>
+        <pattern>GETTING HELP FOR * ADDICTION</pattern>
+        <template><srai>GETTING HELP FOR ADDICTION</srai></template>
+    </category>
+    <category>
+        <pattern>* RECOVERY PROCESS</pattern>
+        <template><srai>RECOVERY PROCESS</srai></template>
+    </category>
+    <category>
+        <pattern>SUPPORT SYSTEM</pattern>
+        <template>Having a strong support system is crucial for overcoming drug addiction. Surround yourself with friends, family, and professionals who understand your struggles and can provide encouragement.</template>
+    </category>
+    <category>
+        <pattern>AVOIDING * RELAPSE</pattern>
+        <template><srai>AVOIDING RELAPSE</srai></template>
+    </category>
+    <category>
+        <pattern>SEEKING PROFESSIONAL HELP</pattern>
+        <template>If you or someone you know is struggling with drug addiction, it's essential to seek professional help. Treatment options may include detoxification, therapy, counseling, and medication.</template>
+    </category>
+    <category>
+        <pattern>* RESOURCES FOR ADDICTION</pattern>
+        <template><srai>RESOURCES FOR ADDICTION</srai></template>
+    </category>
+    <category>
+        <pattern>HOPE AND * RECOVERY</pattern>
+        <template><srai>HOPE AND RECOVERY</srai></template>
+    </category>
+</aiml>
+

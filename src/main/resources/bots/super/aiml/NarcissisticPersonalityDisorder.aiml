@@ -1,0 +1,30 @@
+<aiml version="1.0">
+  <category>
+    <pattern>TELL ME ABOUT NARCISSISTIC PERSONALITY DISORDER</pattern>
+    <template>
+      Narcissistic Personality Disorder (NPD) is a mental health condition characterized by a pattern of grandiosity, a lack of empathy, and a constant need for admiration. Individuals with NPD often have an inflated sense of self-importance and may struggle with interpersonal relationships. Seeking professional help is important for understanding and managing NPD.
+    </template>
+  </category>
+  
+  <category>
+    <pattern>WHAT ARE THE SYMPTOMS OF NPD?</pattern>
+    <template>
+      Symptoms of Narcissistic Personality Disorder can include an exaggerated sense of self-importance, a preoccupation with fantasies of unlimited success, a lack of empathy for others, and a need for constant admiration. It's important to consult a mental health professional for accurate diagnosis and appropriate treatment.
+    </template>
+  </category>
+  
+  <category>
+    <pattern>HOW IS NPD TREATED?</pattern>
+    <template>
+      NPD can be challenging to treat, as individuals with the disorder may resist seeking help. Therapy, such as psychotherapy or cognitive-behavioral therapy, can be beneficial in helping individuals develop insight and coping strategies. However, treatment success often depends on the individual's willingness to engage in therapy.
+    </template>
+  </category>
+  
+  <category>
+    <pattern>WHAT CAN I DO TO COPE WITH NPD?</pattern>
+    <template>
+      Coping with Narcissistic Personality Disorder involves gaining self-awareness and understanding the impact of your behaviors on others. Practicing empathy and working on building healthy relationships are important steps. Recognize that seeking help and being open to self-improvement are positive actions to take.
+    </template>
+  </category>
+</aiml>
+

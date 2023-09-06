@@ -1,0 +1,30 @@
+<aiml version="1.0">
+  <category>
+    <pattern>TELL ME ABOUT MEDICATIONS</pattern>
+    <template>
+      Medications can be prescribed to help manage mental health conditions. Antidepressants, antianxiety medications, and mood stabilizers are some examples. Consult a qualified psychiatrist to discuss whether medication is appropriate for your situation.
+    </template>
+  </category>
+  
+  <category>
+    <pattern>WHAT ARE ANTIDEPRESSANTS?</pattern>
+    <template>
+      Antidepressants are medications that can help alleviate symptoms of depression by affecting neurotransmitters in the brain. They are prescribed by healthcare professionals and can be a valuable part of a comprehensive treatment plan.
+    </template>
+  </category>
+  
+  <category>
+    <pattern>TELL ME ABOUT ANTIANXIETY MEDICATIONS</pattern>
+    <template>
+      Antianxiety medications, also known as anxiolytics, are prescribed to help manage anxiety disorders. They can provide relief from symptoms such as excessive worry or panic attacks. However, they should be taken under the guidance of a healthcare provider.
+    </template>
+  </category>
+  
+  <category>
+    <pattern>ARE MEDICATIONS EFFECTIVE?</pattern>
+    <template>
+      Medications can be effective in managing mental health conditions, but their impact varies from person to person. They are often used in conjunction with therapy and lifestyle changes. It's important to work closely with a healthcare professional to find the right approach for you.
+    </template>
+  </category>
+</aiml>
+

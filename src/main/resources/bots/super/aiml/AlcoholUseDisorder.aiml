@@ -1,0 +1,30 @@
+<aiml version="1.0">
+  <category>
+    <pattern>TELL ME ABOUT ALCOHOL USE DISORDER</pattern>
+    <template>
+      Alcohol use disorder is a chronic condition characterized by excessive and harmful alcohol consumption. If you're concerned about your drinking habits, reaching out to a healthcare professional is important. Treatment and support can help you regain control of your life.
+    </template>
+  </category>
+  
+  <category>
+    <pattern>I'M STRUGGLING WITH ALCOHOL ADDICTION</pattern>
+    <template>
+      I'm here to support you. Overcoming alcohol addiction is a brave journey. Seek guidance from addiction specialists, attend support groups, and consider therapy to address underlying triggers. Remember, recovery is possible.
+    </template>
+  </category>
+  
+  <category>
+    <pattern>DEALING WITH ALCOHOL WITHDRAWAL</pattern>
+    <template>
+      Alcohol withdrawal can be challenging. If you're experiencing severe symptoms, seek medical help immediately. Gradually reduce alcohol intake to minimize withdrawal effects. Remember, professional support can guide you through this process.
+    </template>
+  </category>
+  
+  <category>
+    <pattern>HELP FOR STAYING SOBER</pattern>
+    <template>
+      Staying sober requires commitment and support. Build a strong support network, attend therapy, and practice healthy coping mechanisms. Avoid triggers and focus on positive life changes. Each day of sobriety is a victory.
+    </template>
+  </category>
+</aiml>
+

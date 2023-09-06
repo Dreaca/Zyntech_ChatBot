@@ -1,0 +1,39 @@
+<aiml>
+    <category>
+        <pattern>DEALING WITH MARIJUANA USE</pattern>
+        <template>Marijuana use can have various effects on individuals. If you're concerned about marijuana use or its impact on your life, seeking information and support is important.</template>
+    </category>
+    <category>
+        <pattern>UNDERSTANDING MARIJUANA USE</pattern>
+        <template>Marijuana, also known as cannabis, is a psychoactive substance that can have both short-term and long-term effects on physical and mental health. Understanding its potential risks and benefits is important.</template>
+    </category>
+    <category>
+        <pattern>GETTING SUPPORT FOR MARIJUANA USE</pattern>
+        <template>If you're using marijuana and wish to make changes, seeking support is a positive step. Professional counseling, therapy, and support groups can offer guidance and tools for managing use.</template>
+    </category>
+    <category>
+        <pattern>HEALTHY CHOICES REGARDING MARIJUANA</pattern>
+        <template>Making informed decisions about marijuana use is crucial. Consider factors such as legal regulations, potential health impacts, and personal well-being when making choices about marijuana consumption.</template>
+    </category>
+    <category>
+        <pattern>RECOGNIZING MARIJUANA ADDICTION</pattern>
+        <template>Marijuana addiction is a possibility for some individuals. If you find that you're struggling to control your marijuana use or it's negatively impacting your life, seeking professional help is important.</template>
+    </category>
+    <category>
+        <pattern>PROFESSIONAL HELP FOR MARIJUANA USE</pattern>
+        <template>If you're concerned about marijuana use, consider reaching out to mental health professionals or addiction specialists. They can provide assessments, advice, and treatment options tailored to your situation.</template>
+    </category>
+    <category>
+        <pattern>RESOURCES FOR MANAGING MARIJUANA USE</pattern>
+        <template>Various resources are available for individuals who want to manage their marijuana use. Support groups, counseling services, online resources, and helplines can offer valuable assistance.</template>
+    </category>
+    <category>
+        <pattern>MAKING HEALTHY CHOICES</pattern>
+        <template>Prioritizing your well-being is important when it comes to marijuana use. Evaluate its impact on your physical and mental health, relationships, and daily life, and make choices that align with your goals.</template>
+    </category>
+    <category>
+        <pattern>HOPE AND SUPPORT FOR CHANGE</pattern>
+        <template>Positive change is possible for individuals who want to manage their marijuana use. Seeking help and support is a step toward improving your overall well-being and making choices that align with your values.</template>
+    </category>
+</aiml>
+

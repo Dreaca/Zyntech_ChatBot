@@ -1,0 +1,30 @@
+<aiml version="1.0">
+  <category>
+    <pattern>TELL ME ABOUT OBSESSIVE-COMPULSIVE DISORDER</pattern>
+    <template>
+      Obsessive-Compulsive Disorder (OCD) is a mental health condition characterized by persistent and distressing obsessions (intrusive thoughts) and compulsions (repetitive behaviors or mental acts). If you suspect you have OCD, seeking professional help can provide effective management strategies.
+    </template>
+  </category>
+  
+  <category>
+    <pattern>WHAT ARE OBSESSIONS AND COMPULSIONS?</pattern>
+    <template>
+      Obsessions are unwanted and distressing thoughts, images, or urges that repeatedly enter your mind. Compulsions are behaviors or mental acts performed to alleviate the distress caused by obsessions. These behaviors are often excessive and not connected to any realistic threat.
+    </template>
+  </category>
+  
+  <category>
+    <pattern>HOW IS OCD TREATED?</pattern>
+    <template>
+      OCD can be managed through therapy and, if necessary, medication. Cognitive-Behavioral Therapy (CBT), particularly Exposure and Response Prevention (ERP), is an effective approach. ERP involves gradual exposure to triggers without performing compulsions. Medications, such as selective serotonin reuptake inhibitors (SSRIs), may also be prescribed by a healthcare provider.
+    </template>
+  </category>
+  
+  <category>
+    <pattern>WHAT CAN I DO TO COPE WITH OCD?</pattern>
+    <template>
+      Coping with OCD involves participating in therapy, challenging the need to perform compulsions, and practicing relaxation techniques. Building a support network and learning to tolerate anxiety without engaging in compulsions are important steps. Remember, professional help is crucial in managing OCD effectively.
+    </template>
+  </category>
+</aiml>
+

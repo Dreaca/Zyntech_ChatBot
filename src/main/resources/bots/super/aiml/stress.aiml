@@ -1,0 +1,23 @@
+<aiml>
+    <category>
+        <pattern>STRESS MANAGEMENT TECHNIQUES</pattern>
+        <template>Engaging in imagery and progressive muscle relaxation can lower stress. These techniques activate the parasympathetic nervous system, which is responsible for the relaxation response.</template>
+    </category>
+    <category>
+        <pattern>WHAT NOT TO DO WHEN MANAGING STRESS</pattern>
+        <template>When managing stress, it's important to avoid certain actions. Here are four things to avoid:
+            1. Embrace stress in your environment: Manage your surroundings by avoiding stress-inducing people and situations.
+            2. Overload your to-do list: Practice time management and allow flexibility for unforeseen obstacles.
+            3. Neglect self-care: Prioritize self-care routines for your physical and mental well-being.
+            4. Lose hope: Maintain a positive mindset and belief in your ability to overcome stressors.</template>
+    </category>
+    <category>
+        <pattern>WHEN TO SEE A DOCTOR FOR STRESS</pattern>
+        <template>If you notice changes like insomnia, headaches, chest pains, or thoughts of depression, consider consulting a health professional. Stress affects people differently, and seeking help is important for your well-being.</template>
+    </category>
+    <category>
+        <pattern>IMPORTANCE OF STRESS MANAGEMENT</pattern>
+        <template>Stress management techniques can have a profound impact on your life. From health and work to relationships, self-care practices can lead to reduced stress, improved sleep, and overall well-being.</template>
+    </category>
+</aiml>
+

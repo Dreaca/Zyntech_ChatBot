@@ -1,0 +1,30 @@
+<aiml version="1.0">
+  <category>
+    <pattern>TELL ME ABOUT SCHIZOPHRENIA</pattern>
+    <template>
+      Schizophrenia is a complex mental health disorder that affects how a person thinks, feels, and behaves. It often involves symptoms like hallucinations, delusions, disorganized thinking, and disrupted social functioning. If you suspect you have schizophrenia, seeking professional help is crucial for accurate diagnosis and effective treatment.
+    </template>
+  </category>
+  
+  <category>
+    <pattern>WHAT ARE THE SYMPTOMS OF SCHIZOPHRENIA?</pattern>
+    <template>
+      Symptoms of Schizophrenia can vary but often include hallucinations (perceiving things that aren't real), delusions (false beliefs), disorganized speech, impaired cognitive function, and social withdrawal. It's important to consult a mental health professional for proper diagnosis and appropriate treatment.
+    </template>
+  </category>
+  
+  <category>
+    <pattern>HOW IS SCHIZOPHRENIA TREATED?</pattern>
+    <template>
+      Schizophrenia is usually managed through a combination of therapy and medication. Antipsychotic medications can help control symptoms like hallucinations and delusions. Psychotherapy and support groups can provide coping strategies and help improve social functioning and quality of life.
+    </template>
+  </category>
+  
+  <category>
+    <pattern>WHAT CAN I DO TO COPE WITH SCHIZOPHRENIA?</pattern>
+    <template>
+      Coping with schizophrenia involves adhering to treatment plans, attending therapy sessions, and building a strong support network. Learning stress management techniques, practicing self-care, and engaging in meaningful activities can also contribute to managing symptoms and maintaining stability.
+    </template>
+  </category>
+</aiml>
+

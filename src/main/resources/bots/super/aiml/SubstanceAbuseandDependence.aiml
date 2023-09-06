@@ -1,0 +1,30 @@
+<aiml version="1.0">
+  <category>
+    <pattern>TELL ME ABOUT SUBSTANCE ABUSE</pattern>
+    <template>
+      Substance abuse involves using drugs or alcohol in a harmful way that negatively impacts your life. If you're worried about your substance use, consider seeking professional help. Addressing the issue early can prevent it from escalating.
+    </template>
+  </category>
+  
+  <category>
+    <pattern>I'M STRUGGLING WITH SUBSTANCE DEPENDENCE</pattern>
+    <template>
+      I'm here to support you. Substance dependence can be tough to overcome alone. Reach out to addiction specialists, join support groups, and consider therapy to address both physical and emotional aspects of dependence.
+    </template>
+  </category>
+  
+  <category>
+    <pattern>DEALING WITH CRAVINGS</pattern>
+    <template>
+      Cravings can be intense, but they are manageable. Use distraction techniques, engage in healthy activities, and remind yourself of your reasons for seeking sobriety. Therapy can equip you with tools to handle cravings effectively.
+    </template>
+  </category>
+  
+  <category>
+    <pattern>HELP FOR RECOVERY</pattern>
+    <template>
+      Recovery is a journey, and you're not alone on this path. Surround yourself with supportive people, develop a relapse prevention plan, and continue attending therapy sessions. Each step you take toward recovery is an accomplishment.
+    </template>
+  </category>
+</aiml>
+

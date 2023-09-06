@@ -1,0 +1,30 @@
+<aiml version="1.0">
+  <category>
+    <pattern>TELL ME ABOUT STRESS MANAGEMENT</pattern>
+    <template>
+      Stress management is essential for maintaining your well-being. Practice deep breathing, engage in regular physical activity, and prioritize sleep. Consider time management techniques, such as creating to-do lists and setting realistic goals. Remember, finding healthy ways to cope with stress is crucial.
+    </template>
+  </category>
+  
+  <category>
+    <pattern>HELP WITH MANAGING STRESS</pattern>
+    <template>
+      I'm here to help. Managing stress involves finding strategies that work for you. Consider relaxation techniques, like meditation or progressive muscle relaxation. Engage in activities you enjoy and reach out to friends or professionals for support when needed.
+    </template>
+  </category>
+  
+  <category>
+    <pattern>WAYS TO REDUCE STRESS</pattern>
+    <template>
+      Reducing stress can improve your quality of life. Prioritize self-care by engaging in hobbies, spending time in nature, and maintaining a healthy work-life balance. Practice positive self-talk and remind yourself that you're capable of handling challenges.
+    </template>
+  </category>
+  
+  <category>
+    <pattern>DEALING WITH WORKPLACE STRESS</pattern>
+    <template>
+      Workplace stress is common. Set boundaries, break tasks into smaller steps, and practice time management. Communicate with colleagues and consider speaking to your supervisor about workload concerns. Prioritize self-care outside of work as well.
+    </template>
+  </category>
+</aiml>
+

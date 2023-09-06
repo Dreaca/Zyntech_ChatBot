@@ -1,0 +1,37 @@
+<aiml version="1.0">
+  <category>
+    <pattern>TELL ME ABOUT BIPOLAR DISORDER</pattern>
+    <template>
+      Bipolar Disorder, also known as manic-depressive illness, is a mental health condition characterized by mood episodes that range from extreme highs (mania) to lows (depression). There are two main types: Bipolar I and Bipolar II. Seeking professional help is important for managing the complexities of bipolar disorder.
+    </template>
+  </category>
+  
+  <category>
+    <pattern>WHAT IS BIPOLAR I DISORDER?</pattern>
+    <template>
+      Bipolar I Disorder involves manic episodes that last at least seven days, often with a mix of depressive episodes. Mania can involve elevated mood, excessive energy, impulsivity, and sometimes psychosis. It's important to consult a mental health professional for proper diagnosis and treatment.
+    </template>
+  </category>
+  
+  <category>
+    <pattern>WHAT IS BIPOLAR II DISORDER?</pattern>
+    <template>
+      Bipolar II Disorder involves depressive episodes and hypomanic episodes, which are less severe than full-blown mania. Hypomania involves increased energy and mood, but it doesn't lead to the impairment associated with mania. Consulting a healthcare provider is crucial for accurate diagnosis and appropriate treatment.
+    </template>
+  </category>
+  
+  <category>
+    <pattern>HOW IS BIPOLAR DISORDER TREATED?</pattern>
+    <template>
+      Bipolar Disorder is often treated with a combination of therapy and medication. Mood stabilizers are commonly prescribed to manage mood fluctuations. Psychoeducation, Cognitive-Behavioral Therapy (CBT), and support groups can also be beneficial in learning to manage symptoms and maintain stability.
+    </template>
+  </category>
+  
+  <category>
+    <pattern>WHAT CAN I DO TO COPE WITH BIPOLAR DISORDER?</pattern>
+    <template>
+      Coping with bipolar disorder involves adhering to treatment plans, recognizing early signs of mood episodes, practicing stress management, and maintaining a stable routine. Monitoring your mood and seeking help if you notice significant changes is important for preventing severe episodes.
+    </template>
+  </category>
+</aiml>
+

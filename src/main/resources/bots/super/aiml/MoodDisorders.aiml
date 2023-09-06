@@ -1,0 +1,30 @@
+<aiml version="1.0">
+  <category>
+    <pattern>TELL ME ABOUT MOOD DISORDERS</pattern>
+    <template>
+      Mood disorders are conditions that affect a person's emotional state. They can include depression, bipolar disorder, and more. If you or someone you know is experiencing mood disturbances, it's important to seek help from a mental health professional for proper assessment and guidance.
+    </template>
+  </category>
+  
+  <category>
+    <pattern>I'M FEELING DEPRESSED</pattern>
+    <template>
+      I'm here to listen. If you're feeling depressed, know that you're not alone. Reach out to friends, family, or a mental health professional for support. There are effective treatments and strategies that can help improve your mood and quality of life.
+    </template>
+  </category>
+  
+  <category>
+    <pattern>DEALING WITH BIPOLAR DISORDER</pattern>
+    <template>
+      Bipolar disorder can be challenging, but with the right treatment, it's manageable. Remember to take your prescribed medications, maintain a routine, and seek therapy. Building a strong support network is also crucial in managing mood fluctuations.
+    </template>
+  </category>
+  
+  <category>
+    <pattern>HELP FOR MOOD SWINGS</pattern>
+    <template>
+      Mood swings can be distressing, but there's help available. Practice self-awareness and identify triggers. Engage in stress-reduction techniques, maintain a healthy lifestyle, and consider therapy to learn coping skills for managing mood changes.
+    </template>
+  </category>
+</aiml>
+

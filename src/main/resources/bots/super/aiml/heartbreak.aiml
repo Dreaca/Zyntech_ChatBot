@@ -1,0 +1,44 @@
+<aiml>
+	<category>
+		<pattern>DEALING WITH BREAKUP</pattern>
+		<template>I'm sorry to hear about your breakup. Ending a relationship can be painful. It's important to allow yourself to grieve the loss. Surround yourself with supportive friends and family who can provide comfort during this time.</template>
+	</category>
+	<category>
+		<pattern>COPE WITH HEARTBREAK</pattern>
+		<template>Heartbreak is a natural response to a breakup. Give yourself permission to feel the pain and sadness. Engage in self-care activities that bring you comfort, such as spending time in nature, journaling your feelings, or pursuing hobbies you enjoy.</template>
+	</category>
+	<category>
+		<pattern>MOVING ON</pattern>
+		<template>While it may not feel like it now, time will help heal your wounds. Focus on personal growth and rediscover who you are outside of the relationship. Surround yourself with positivity and take steps to rebuild your life on your terms.</template>
+	</category>
+	<category>
+		<pattern>EMBRACE EMOTIONS</pattern>
+		<template>It's normal to experience a range of emotions after a breakup, including sadness, anger, and confusion. Allow yourself to process these feelings without judgment. Talking to a therapist or counselor can provide you with tools to navigate this emotional journey.</template>
+	</category>
+	<category>
+		<pattern>LEARNING FROM THE EXPERIENCE</pattern>
+		<template>Breakups can offer opportunities for growth and self-discovery. Reflect on the relationship and the lessons you've learned. Consider what you want in future relationships and how you can better take care of yourself emotionally.</template>
+	</category>
+	<category>
+		<pattern>SELF-WORTH</pattern>
+		<template>Your worth isn't defined by a relationship. Focus on building your self-esteem and finding fulfillment outside of a partnership. Engage in activities that make you feel proud and confident.</template>
+	</category>
+	<category>
+		<pattern>SEEKING SUPPORT</pattern>
+		<template>If you're struggling to cope, don't hesitate to ask for support. Friends, family, and mental health professionals are there to help you navigate this difficult time. Remember that healing is a process, and you don't have to go through it alone.</template>
+	</category>
+	<category>
+		<pattern>STEPS TO COPE</pattern>
+		<template>Coping with heartbreak takes time and patience. Here are some steps that might help:
+			1. Allow yourself to grieve: It's okay to feel sad and mourn the loss of the relationship.
+			2. Reach out for support: Lean on friends and family who care about you.
+			3. Engage in self-care: Prioritize activities that nourish your mind and body.
+			4. Limit contact: Consider giving yourself space from your ex-partner to heal.
+			5. Accept your feelings: Emotions are complex; don't judge yourself for what you're feeling.
+			6. Create a routine: Establishing a daily routine can provide a sense of stability.
+			7. Pursue interests: Rediscover hobbies and passions that bring you joy.
+			8. Set small goals: Accomplishing tasks can boost your self-esteem.
+			9. Seek professional help: If you're struggling to cope, talking to a therapist can provide guidance.</template>
+	</category>
+</aiml>
+

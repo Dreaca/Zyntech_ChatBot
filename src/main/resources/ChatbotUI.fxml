@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TextArea?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.shape.Rectangle?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane prefHeight="460.0" prefWidth="677.0" xmlns="http://javafx.com/javafx/20.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="org.example.ChatbotUIController">
+   <children>
+      <Rectangle arcHeight="20.0" arcWidth="20.0" fill="WHITE" height="428.0" layoutX="18.0" layoutY="14.0" stroke="BLACK" strokeType="INSIDE" width="643.0" />
+      <Rectangle arcHeight="30.0" arcWidth="30.0" fill="#a1f0f8" height="43.0" layoutX="32.0" layoutY="27.0" stroke="BLACK" strokeType="INSIDE" width="234.0" />
+      <Label layoutX="39.0" layoutY="33.0" prefHeight="31.0" prefWidth="243.0" text="Chat with Serenity">
+         <font>
+            <Font name="System Bold" size="21.0" />
+         </font>
+      </Label>
+      <Rectangle arcHeight="30.0" arcWidth="30.0" fill="#d3fbff" height="347.0" layoutX="32.0" layoutY="77.0" stroke="BLACK" strokeType="INSIDE" width="234.0" />
+      <ImageView fitHeight="152.0" fitWidth="274.0" layoutX="323.0" layoutY="42.0">
+         <image>
+            <Image url="@../../../Pictures/undraw_Chat_bot_re_e2gj.png" />
+         </image>
+      </ImageView>
+      <Rectangle arcHeight="30.0" arcWidth="30.0" fill="#a3f6ff" height="243.0" layoutX="275.0" layoutY="179.0" stroke="BLACK" strokeType="INSIDE" width="378.0" />
+      <TextField layoutX="287.0" layoutY="391.0" prefHeight="24.0" prefWidth="355.0" style="-fx-background-radius: 50;" />
+      <Button layoutX="591.0" layoutY="391.0" mnemonicParsing="false" style="-fx-background-radius: 1000;" text="Send" />
+      <TextArea layoutX="282.0" layoutY="185.0" prefHeight="200.0" prefWidth="364.0" style="-fx-background-radius: 35; -fx-border-radius: 45;" />
+   </children>
+</AnchorPane>

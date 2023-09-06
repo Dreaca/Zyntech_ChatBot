@@ -1,0 +1,30 @@
+<aiml version="1.0">
+  <category>
+    <pattern>TELL ME ABOUT ELECTROCONVULSIVE THERAPY</pattern>
+    <template>
+      Electroconvulsive Therapy (ECT) is a medical procedure used to treat severe mental health conditions, such as severe depression and certain forms of bipolar disorder. ECT involves passing an electric current through the brain to induce a controlled seizure. It's typically used when other treatments haven't been effective or when rapid improvement is necessary.
+    </template>
+  </category>
+  
+  <category>
+    <pattern>HOW DOES ECT WORK?</pattern>
+    <template>
+      During ECT, an electric current is applied to the brain, triggering a brief seizure. The exact mechanism isn't fully understood, but it's believed to impact neurotransmitter activity and promote changes in brain chemistry. ECT is administered under anesthesia, and a medical team closely monitors the procedure.
+    </template>
+  </category>
+  
+  <category>
+    <pattern>IS ECT SAFE?</pattern>
+    <template>
+      ECT is considered safe and effective when performed by trained medical professionals. Side effects can include temporary memory loss and confusion, but these effects usually improve over time. Your healthcare provider will discuss the potential risks and benefits to determine if ECT is appropriate for you.
+    </template>
+  </category>
+  
+  <category>
+    <pattern>WHO IS ECT SUITABLE FOR?</pattern>
+    <template>
+      ECT is typically reserved for individuals with severe mental health conditions that haven't responded to other treatments. It's often used when rapid improvement is needed, such as in cases of severe depression with suicidal tendencies. A qualified psychiatrist will assess whether ECT is a suitable option for your specific situation.
+    </template>
+  </category>
+</aiml>
+

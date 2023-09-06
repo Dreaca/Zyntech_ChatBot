@@ -1,0 +1,3 @@
+0,* BORED * MOVIE *,*,*,Sure#Comma here are some movie suggestions: #Newline      1. The Shawshank Redemption#Newline      2. Inception#Newline      3. The Dark Knight,bored.aiml
+0,* BORED * SONG *,*,*,Sure#Comma here are some song suggestions: #Newline      1. "Bohemian Rhapsody" by Queen#Newline      2. "Imagine" by John Lennon#Newline      3. "Hotel California" by Eagles,bored.aiml
+0,* BORED *,*,*,What would you like suggestions for#Comma movies or songs?,bored.aiml

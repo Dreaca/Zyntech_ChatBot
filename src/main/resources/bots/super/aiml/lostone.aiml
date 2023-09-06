@@ -1,0 +1,31 @@
+<aiml>
+	<category>
+		<pattern>DEALING WITH LOSS</pattern>
+		<template>I'm so sorry for your loss. Grief is a personal journey, and there's no right or wrong way to navigate it. It's natural to feel a mix of emotions, from sadness and anger to confusion and even relief. Take the time you need to mourn and remember your loved one.</template>
+	</category>
+	<category>
+		<pattern>COPING WITH GRIEF</pattern>
+		<template>Grief can be overwhelming, and it's important to prioritize self-care during this time. Allow yourself to feel whatever comes up and don't rush the healing process. Talking about your loved one, journaling your feelings, or even creating a memory box can help you cope.</template>
+	</category>
+	<category>
+		<pattern>REMEMBERING THEM</pattern>
+		<template>It's okay to miss your loved one deeply. They had a unique impact on your life, and their memory will always be a part of you. Consider creating a memorial, participating in activities they enjoyed, or donating to a cause they cared about as a way to honor their legacy.</template>
+	</category>
+	<category>
+		<pattern>EMOTIONAL WAVES</pattern>
+		<template>Grief often comes in waves, and it's common to experience moments of intense sorrow followed by periods of calm. During these waves, reach out to friends, family, or professionals who can provide support. Remember that your feelings are valid, no matter how they come and go.</template>
+	</category>
+	<category>
+		<pattern>FINDING MEANING</pattern>
+		<template>As you grieve, you might find yourself searching for meaning in the loss. This journey is personal, and finding purpose can be a gradual process. Some people find solace in helping others, starting a project in their loved one's memory, or simply living in a way that reflects their values.</template>
+	</category>
+	<category>
+		<pattern>SEEKING PROFESSIONAL HELP</pattern>
+		<template>If you're finding it difficult to cope with the loss, there's no shame in seeking professional support. Grief counseling or therapy can provide you with tools to navigate your emotions and develop healthy coping strategies.</template>
+	</category>
+	<category>
+		<pattern>HEALING IN YOUR TIME</pattern>
+		<template>Remember that healing from grief is not a linear process. There's no set timeline for when you should feel better. Be patient with yourself, and don't hesitate to lean on your support network when you need it most.</template>
+	</category>
+</aiml>
+

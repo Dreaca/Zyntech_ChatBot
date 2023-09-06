@@ -1,0 +1,30 @@
+<aiml version="1.0">
+  <category>
+    <pattern>TELL ME ABOUT PSYCHOTHERAPY</pattern>
+    <template>
+      Psychotherapy is a type of talk therapy that aims to improve mental health by exploring emotions, thoughts, and behaviors. Different approaches, like Cognitive-Behavioral Therapy (CBT) and Dialectical Behavior Therapy (DBT), can help individuals develop coping skills and manage challenges.
+    </template>
+  </category>
+  
+  <category>
+    <pattern>WHAT IS CBT?</pattern>
+    <template>
+      Cognitive-Behavioral Therapy (CBT) is a widely used therapy that focuses on identifying and changing negative thought patterns. It helps you develop healthier ways of thinking and responding to situations. CBT can be effective in treating anxiety, depression, and other mental health issues.
+    </template>
+  </category>
+  
+  <category>
+    <pattern>TELL ME ABOUT DBT</pattern>
+    <template>
+      Dialectical Behavior Therapy (DBT) is often used for individuals with intense emotions, self-harm behaviors, and borderline personality disorder. DBT combines cognitive-behavioral techniques with mindfulness and interpersonal effectiveness skills to improve emotional regulation and interpersonal relationships.
+    </template>
+  </category>
+  
+  <category>
+    <pattern>HOW DOES PSYCHOTHERAPY WORK?</pattern>
+    <template>
+      Psychotherapy involves regular sessions with a trained therapist who helps you explore and understand your thoughts, feelings, and behaviors. Through discussions and exercises, you learn coping strategies, gain insight into challenges, and work towards positive changes in your life.
+    </template>
+  </category>
+</aiml>
+

@@ -1,0 +1,30 @@
+<aiml version="1.0">
+  <category>
+    <pattern>TELL ME ABOUT SUBSTANCE USE DISORDERS</pattern>
+    <template>
+      Substance use disorders involve the misuse of drugs or alcohol, leading to negative consequences on physical and mental health. If you or someone you know is struggling with substance use, seeking professional help is essential for recovery.
+    </template>
+  </category>
+  
+  <category>
+    <pattern>I'M STRUGGLING WITH ADDICTION</pattern>
+    <template>
+      I'm here to support you. Overcoming addiction is possible with the right help. Consider reaching out to addiction specialists and support groups. Remember, seeking treatment is a courageous step toward regaining control of your life.
+    </template>
+  </category>
+  
+  <category>
+    <pattern>DEALING WITH WITHDRAWAL</pattern>
+    <template>
+      Withdrawal symptoms can be challenging, but they are temporary. Stay hydrated, rest, and consider seeking medical help for safe detoxification. Therapy and support groups can provide you with tools to manage cravings and maintain sobriety.
+    </template>
+  </category>
+  
+  <category>
+    <pattern>HELP FOR RELAPSE</pattern>
+    <template>
+      Relapse is a common part of recovery. Don't be discouraged; it's a chance to learn and grow. Reach out to your support network, attend meetings, and continue therapy to build resilience and get back on track.
+    </template>
+  </category>
+</aiml>
+

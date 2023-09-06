@@ -1,0 +1,30 @@
+<aiml version="1.0">
+  <category>
+    <pattern>TELL ME ABOUT PANIC DISORDER</pattern>
+    <template>
+      Panic Disorder is a mental health condition characterized by recurrent and unexpected panic attacks. Panic attacks involve sudden feelings of intense fear and physical symptoms such as rapid heart rate, shortness of breath, and trembling. If you're experiencing panic attacks, seeking professional help is important for effective management.
+    </template>
+  </category>
+  
+  <category>
+    <pattern>WHAT ARE PANIC ATTACKS?</pattern>
+    <template>
+      Panic attacks are sudden episodes of intense fear and physical sensations. Symptoms can include heart palpitations, sweating, shaking, and a sense of impending doom. It's important to consult a mental health professional to determine if you're experiencing panic attacks and to receive appropriate treatment.
+    </template>
+  </category>
+  
+  <category>
+    <pattern>HOW IS PANIC DISORDER TREATED?</pattern>
+    <template>
+      Panic Disorder can be managed through therapy and, if necessary, medication. Cognitive-Behavioral Therapy (CBT) can help you identify and challenge negative thought patterns that contribute to panic attacks. Antianxiety medications may be prescribed by a healthcare provider to alleviate symptoms.
+    </template>
+  </category>
+  
+  <category>
+    <pattern>WHAT CAN I DO DURING A PANIC ATTACK?</pattern>
+    <template>
+      During a panic attack, focus on your breathing and try to remain as calm as possible. Find a quiet place if you can and engage in deep, slow breaths. Remember that panic attacks are temporary and will subside. Seeking therapy and developing coping strategies can help manage and reduce the frequency of panic attacks.
+    </template>
+  </category>
+</aiml>
+

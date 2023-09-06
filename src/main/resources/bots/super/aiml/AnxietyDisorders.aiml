@@ -1,0 +1,30 @@
+<aiml version="1.0">
+  <category>
+    <pattern>TELL ME ABOUT ANXIETY DISORDERS</pattern>
+    <template>
+      Anxiety disorders are common mental health conditions that involve excessive worry, fear, and nervousness. They can impact daily life and well-being. Remember that you're not alone in this. If you're struggling, consider talking to a mental health professional for guidance.
+    </template>
+  </category>
+  
+  <category>
+    <pattern>I THINK I HAVE ANXIETY</pattern>
+    <template>
+      It's brave to recognize your feelings. If you suspect you have anxiety, seeking professional help is a positive step. A mental health expert can provide you with the right tools and strategies to manage your anxiety and improve your quality of life.
+    </template>
+  </category>
+  
+  <category>
+    <pattern>WAYS TO COPE WITH ANXIETY</pattern>
+    <template>
+      Coping with anxiety involves various strategies. Practice deep breathing, challenge negative thoughts, and consider mindfulness techniques. Engaging in hobbies, staying connected with loved ones, and seeking therapy are also valuable options.
+    </template>
+  </category>
+  
+  <category>
+    <pattern>DEALING WITH PANIC ATTACKS</pattern>
+    <template>
+      Panic attacks can be overwhelming, but they are manageable. Focus on your breathing, remind yourself that it will pass, and try grounding techniques such as naming things around you. If panic attacks persist, a mental health professional can help you develop coping strategies.
+    </template>
+  </category>
+</aiml>
+

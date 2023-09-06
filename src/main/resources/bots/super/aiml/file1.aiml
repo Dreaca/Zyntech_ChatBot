@@ -1,0 +1,30 @@
+<aiml version="1.0">
+  <category>
+    <pattern>TELL ME ABOUT MENTAL HEALTH STIGMA</pattern>
+    <template>
+      Mental health stigma refers to negative attitudes, beliefs, and stereotypes that society holds toward individuals with mental health conditions. Stigma can prevent people from seeking help, lead to discrimination, and contribute to isolation. Raising awareness, promoting education, and challenging stigma are crucial for fostering understanding and support.
+    </template>
+  </category>
+  
+  <category>
+    <pattern>WHAT IS MENTAL HEALTH ADVOCACY?</pattern>
+    <template>
+      Mental health advocacy involves promoting awareness, education, and policies to support individuals with mental health conditions. Advocates work to reduce stigma, improve access to mental health services, and ensure that mental health is treated with the same importance as physical health. Advocacy efforts help create a more inclusive and supportive society.
+    </template>
+  </category>
+  
+  <category>
+    <pattern>HOW CAN I HELP COMBAT MENTAL HEALTH STIGMA?</pattern>
+    <template>
+      You can combat mental health stigma by speaking openly about mental health, sharing personal stories, and correcting misconceptions. Educating others about the realities of mental health conditions and emphasizing the importance of empathy and support can help reduce stigma. Remember that your voice matters and can make a positive impact.
+    </template>
+  </category>
+  
+  <category>
+    <pattern>WHAT CAN I DO TO SUPPORT MENTAL HEALTH ADVOCACY?</pattern>
+    <template>
+      Supporting mental health advocacy involves participating in awareness campaigns, supporting organizations that focus on mental health, and advocating for policies that improve mental health services. Joining local or online communities, attending events, and engaging in conversations about mental health can contribute to positive change.
+    </template>
+  </category>
+</aiml>
+

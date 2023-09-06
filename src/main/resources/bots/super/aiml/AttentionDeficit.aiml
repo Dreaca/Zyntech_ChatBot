@@ -1,0 +1,30 @@
+<aiml version="1.0">
+  <category>
+    <pattern>TELL ME ABOUT ADHD</pattern>
+    <template>
+      Attention-Deficit/Hyperactivity Disorder (ADHD) is a neurodevelopmental disorder that affects focus, impulse control, and hyperactivity. If you or someone you know has ADHD, seeking professional evaluation and guidance can lead to effective management strategies.
+    </template>
+  </category>
+  
+  <category>
+    <pattern>I HAVE ADHD</pattern>
+    <template>
+      You're not alone. Managing ADHD involves learning coping skills, developing routines, and using tools like planners. Medication and therapy can also be beneficial in helping you thrive with ADHD.
+    </template>
+  </category>
+  
+  <category>
+    <pattern>DEALING WITH DISTRACTIONS</pattern>
+    <template>
+      Dealing with distractions can be challenging. Practice techniques like breaking tasks into smaller steps, using timers, and creating an organized workspace. A mental health professional can help you tailor strategies to your specific needs.
+    </template>
+  </category>
+  
+  <category>
+    <pattern>HELP FOR IMPULSIVENESS</pattern>
+    <template>
+      Managing impulsivity is possible. Practice mindfulness, pause before making decisions, and seek therapy to address impulsive behaviors. Remember, small changes in habits can make a big difference in managing ADHD symptoms.
+    </template>
+  </category>
+</aiml>
+

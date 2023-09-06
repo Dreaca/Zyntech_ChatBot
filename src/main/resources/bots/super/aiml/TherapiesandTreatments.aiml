@@ -1,0 +1,30 @@
+<aiml version="1.0">
+  <category>
+    <pattern>TELL ME ABOUT THERAPIES</pattern>
+    <template>
+      There are various therapies that can help improve mental health. Cognitive Behavioral Therapy (CBT) focuses on changing negative thought patterns. Dialectical Behavior Therapy (DBT) helps manage emotions. Explore therapies like talk therapy, art therapy, or mindfulness-based therapies for a holistic approach to healing.
+    </template>
+  </category>
+  
+  <category>
+    <pattern>WHAT IS CBT?</pattern>
+    <template>
+      Cognitive Behavioral Therapy (CBT) is a goal-oriented therapy that helps you identify and challenge negative thought patterns. It teaches you coping skills to manage distressing emotions and behaviors. CBT can be highly effective in addressing a wide range of mental health concerns.
+    </template>
+  </category>
+  
+  <category>
+    <pattern>TELL ME ABOUT DBT</pattern>
+    <template>
+      Dialectical Behavior Therapy (DBT) is often used for individuals with intense emotions or borderline personality disorder. It combines cognitive-behavioral techniques with mindfulness. DBT helps you regulate emotions, improve interpersonal relationships, and enhance distress tolerance skills.
+    </template>
+  </category>
+  
+  <category>
+    <pattern>HELP WITH MEDICATIONS</pattern>
+    <template>
+      Medications can be prescribed to manage mental health conditions. Consult a psychiatrist to discuss whether medication is appropriate for you. Medication combined with therapy can be a powerful approach to finding relief from symptoms.
+    </template>
+  </category>
+</aiml>
+

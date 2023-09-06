@@ -1,0 +1,30 @@
+<aiml version="1.0">
+  <category>
+    <pattern>TELL ME ABOUT EATING DISORDERS</pattern>
+    <template>
+      Eating disorders are serious mental health conditions that affect a person's relationship with food, body image, and overall well-being. If you suspect you have an eating disorder or know someone who does, seeking professional help is crucial for recovery.
+    </template>
+  </category>
+  
+  <category>
+    <pattern>I'M STRUGGLING WITH BULIMIA</pattern>
+    <template>
+      I'm here to support you. Bulimia can be challenging, but help is available. Reach out to a mental health professional who specializes in eating disorders. They can provide you with coping strategies and a path toward healing.
+    </template>
+  </category>
+  
+  <category>
+    <pattern>DEALING WITH BODY IMAGE ISSUES</pattern>
+    <template>
+      Body image concerns are common, but they can be managed. Practice self-compassion and surround yourself with positive influences. Seek therapy to address underlying issues that contribute to negative body image.
+    </template>
+  </category>
+  
+  <category>
+    <pattern>HELP FOR OVEREATING</pattern>
+    <template>
+      If you find yourself overeating, consider seeking support. Mindful eating, recognizing emotional triggers, and talking to a therapist can help you establish a healthier relationship with food.
+    </template>
+  </category>
+</aiml>
+

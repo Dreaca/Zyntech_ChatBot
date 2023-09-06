@@ -1,0 +1,30 @@
+<aiml version="1.0">
+  <category>
+    <pattern>TELL ME ABOUT HEALTHY SLEEP HABITS</pattern>
+    <template>
+      Healthy sleep habits, also known as sleep hygiene, are essential for quality rest. Maintain a consistent sleep schedule by going to bed and waking up at the same times each day. Create a relaxing bedtime routine, avoid caffeine and screens before bed, and keep your sleep environment comfortable and dark.
+    </template>
+  </category>
+  
+  <category>
+    <pattern>HELP WITH INSOMNIA</pattern>
+    <template>
+      If you're struggling with insomnia, establishing a bedtime routine is crucial. Wind down with calming activities, such as reading or gentle stretches. Limit exposure to bright screens, and consider practicing relaxation techniques like deep breathing before sleep.
+    </template>
+  </category>
+  
+  <category>
+    <pattern>WAYS TO IMPROVE SLEEP QUALITY</pattern>
+    <template>
+      Improving sleep quality involves creating a conducive sleep environment. Keep your bedroom dark, quiet, and at a comfortable temperature. Avoid heavy meals and alcohol close to bedtime. By prioritizing sleep, you'll reap the benefits of improved energy and focus during the day.
+    </template>
+  </category>
+  
+  <category>
+    <pattern>DEALING WITH NIGHTTIME ANXIETY</pattern>
+    <template>
+      Nighttime anxiety can disrupt sleep. Create a relaxation routine before bed, such as reading, listening to soothing music, or practicing mindfulness. Keep a notepad by your bedside to jot down worries if they arise, allowing you to address them the next day.
+    </template>
+  </category>
+</aiml>
+

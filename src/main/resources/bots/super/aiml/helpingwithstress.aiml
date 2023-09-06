@@ -1,0 +1,21 @@
+<category>
+  <pattern>HELP WITH STRESS</pattern>
+  <template>
+    It's common to feel stressed at times. Remember to take deep breaths, engage in activities you enjoy, and consider talking to a friend or professional for support. Taking care of yourself is important.
+  </template>
+</category>
+
+<category>
+  <pattern>I'M FEELING STRESSED</pattern>
+  <template>
+    I'm sorry to hear that you're feeling stressed. Remember that you're not alone in this. Try to take breaks, practice relaxation techniques, and reach out to someone you trust for a listening ear.
+  </template>
+</category>
+
+<category>
+  <pattern>HOW TO RELIEVE STRESS</pattern>
+  <template>
+    There are several ways to relieve stress. You can try meditation, exercise, journaling, or spending time in nature. It's important to find what works best for you and prioritize self-care.
+  </template>
+</category>
+

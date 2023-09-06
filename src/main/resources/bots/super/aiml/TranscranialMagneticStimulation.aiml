@@ -1,0 +1,30 @@
+<aiml version="1.0">
+  <category>
+    <pattern>TELL ME ABOUT TRANSCRANIAL MAGNETIC STIMULATION</pattern>
+    <template>
+      Transcranial Magnetic Stimulation (TMS) is a non-invasive procedure used to treat certain mental health conditions, such as depression. TMS involves using magnetic fields to stimulate specific areas of the brain associated with mood regulation. It's often considered when other treatments haven't provided sufficient relief.
+    </template>
+  </category>
+  
+  <category>
+    <pattern>HOW DOES TMS WORK?</pattern>
+    <template>
+      TMS works by delivering magnetic pulses to the brain's surface. These pulses stimulate nerve cells and promote changes in brain activity. The exact mechanism isn't fully understood, but TMS is believed to modulate brain circuits that regulate mood and emotions.
+    </template>
+  </category>
+  
+  <category>
+    <pattern>IS TMS SAFE?</pattern>
+    <template>
+      TMS is considered safe and well-tolerated for most individuals. Side effects are usually mild and temporary, such as headache or scalp discomfort during treatment. Your healthcare provider will assess your medical history to determine if TMS is a suitable option for you.
+    </template>
+  </category>
+  
+  <category>
+    <pattern>WHO IS TMS SUITABLE FOR?</pattern>
+    <template>
+      TMS is typically recommended for individuals with treatment-resistant depression who haven't responded well to other interventions. It may also be considered for other mental health conditions. A qualified psychiatrist will evaluate your situation to determine if TMS is a viable treatment option.
+    </template>
+  </category>
+</aiml>
+

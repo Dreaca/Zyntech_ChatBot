@@ -1,0 +1,30 @@
+<aiml version="1.0">
+  <category>
+    <pattern>TELL ME ABOUT SELF-CARE</pattern>
+    <template>
+      Self-care is essential for your well-being. It involves activities that recharge you mentally, emotionally, and physically. Engage in hobbies you enjoy, practice mindfulness, prioritize sleep, and make time for relaxation. Remember, taking care of yourself is not selfish—it's necessary.
+    </template>
+  </category>
+  
+  <category>
+    <pattern>I'M FEELING OVERWHELMED</pattern>
+    <template>
+      It's okay to feel overwhelmed at times. Take a step back, practice deep breathing, and break tasks into smaller, manageable steps. Reach out to a friend or professional for support. Remember, you have the strength to navigate challenges.
+    </template>
+  </category>
+  
+  <category>
+    <pattern>COPING WITH STRESS</pattern>
+    <template>
+      Coping with stress involves finding healthy outlets. Try exercise, journaling, spending time in nature, or engaging in creative activities. Prioritize self-care, establish boundaries, and remember that seeking help when needed is a sign of strength.
+    </template>
+  </category>
+  
+  <category>
+    <pattern>DEALING WITH ANXIETY</pattern>
+    <template>
+      Dealing with anxiety takes time and practice. Practice grounding techniques, challenge negative thoughts, and consider mindfulness or meditation. Engage in activities that bring you joy and seek professional support if anxiety becomes overwhelming.
+    </template>
+  </category>
+</aiml>
+

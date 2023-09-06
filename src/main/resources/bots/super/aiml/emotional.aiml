@@ -1,0 +1,35 @@
+<aiml>
+	<category>
+		<pattern>FEELING SAD</pattern>
+		<template>I'm sorry to hear that you're feeling sad. Remember that it's okay to have these feelings. Try talking to a friend or engaging in activities you enjoy. If the sadness persists, consider seeking support from a counselor or therapist.</template>
+	</category>
+	<category>
+		<pattern>FEELING ANXIOUS</pattern>
+		<template>If you're feeling anxious, take a deep breath and try to focus on the present moment. Engage in relaxation techniques or mindfulness exercises. Consider talking to someone you trust about your feelings. If anxiety continues, seeking professional help can make a difference.</template>
+	</category>
+	<category>
+		<pattern>NEED MOTIVATION</pattern>
+		<template>If you're looking for motivation, remember your goals and reasons for pursuing them. Break tasks into smaller steps and celebrate your achievements along the way. Surround yourself with positive influences and affirmations. You've got this!</template>
+	</category>
+	<category>
+		<pattern>FEELING LONELY</pattern>
+		<template>Feeling lonely is tough, but know that you're not alone in feeling this way. Reach out to friends, family, or support groups. Engage in activities that interest you and help you connect with others. Building meaningful connections takes time, but it's worth the effort.</template>
+	</category>
+	<category>
+		<pattern>NEED SELF-CARE</pattern>
+		<template>Self-care is important for your well-being. Take time for activities that bring you joy, relaxation, and peace. It could be reading, taking a walk, listening to music, or practicing a hobby. Remember, taking care of yourself is not selfish; it's essential.</template>
+	</category>
+	<category>
+		<pattern>DEALING WITH STRESS</pattern>
+		<template>If you're dealing with stress, consider prioritizing tasks and taking breaks. Practice stress-relief techniques such as deep breathing, meditation, or exercise. It's okay to ask for help if the stress becomes overwhelming.</template>
+	</category>
+	<category>
+		<pattern>FEELING OVERWHELMED</pattern>
+		<template>Feeling overwhelmed is a common experience. Break tasks into smaller steps and focus on one thing at a time. Reach out to others for support and consider setting boundaries to manage your workload. Remember, you're capable of handling challenges.</template>
+	</category>
+	<category>
+		<pattern>GENERAL SUPPORT</pattern>
+		<template>I'm here to support you. Remember that your feelings are valid. If you're struggling, don't hesitate to reach out to friends, family, or professionals. You don't have to go through tough times alone.</template>
+	</category>
+</aiml>
+

@@ -1,0 +1,30 @@
+<aiml version="1.0">
+  <category>
+    <pattern>TELL ME ABOUT SEASONAL AFFECTIVE DISORDER</pattern>
+    <template>
+      Seasonal Affective Disorder (SAD) is a type of depression that occurs at a specific time of year, typically during the fall and winter months when there is less sunlight. SAD can lead to symptoms such as low mood, fatigue, changes in sleep and appetite, and a lack of interest in activities. Seeking professional help is important for managing SAD.
+    </template>
+  </category>
+  
+  <category>
+    <pattern>WHAT CAUSES SAD?</pattern>
+    <template>
+      The exact cause of Seasonal Affective Disorder is not fully understood, but it's thought to be related to changes in light exposure and its impact on the body's internal clock (circadian rhythm) and neurotransmitter levels. Reduced sunlight during the winter months may contribute to the development of SAD.
+    </template>
+  </category>
+  
+  <category>
+    <pattern>HOW IS SAD TREATED?</pattern>
+    <template>
+      SAD can be effectively managed through various approaches. Light therapy, where you're exposed to a bright light that mimics natural sunlight, is a common treatment. Psychotherapy and lifestyle changes, such as regular exercise and maintaining a healthy sleep schedule, can also be beneficial. Consult a healthcare provider for personalized recommendations.
+    </template>
+  </category>
+  
+  <category>
+    <pattern>WHAT CAN I DO TO COPE WITH SAD?</pattern>
+    <template>
+      Coping with Seasonal Affective Disorder involves maintaining a routine exposure to natural light, staying physically active, practicing relaxation techniques, and seeking professional help if your symptoms are interfering with your daily life. Remember, you're not alone in dealing with SAD, and support is available.
+    </template>
+  </category>
+</aiml>
+

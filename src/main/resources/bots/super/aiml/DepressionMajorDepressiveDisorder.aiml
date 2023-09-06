@@ -1,0 +1,30 @@
+<aiml version="1.0">
+  <category>
+    <pattern>TELL ME ABOUT DEPRESSION</pattern>
+    <template>
+      Depression, also known as Major Depressive Disorder, is a common mental health condition characterized by persistent feelings of sadness, hopelessness, and loss of interest or pleasure in activities. If you're experiencing symptoms of depression, seeking professional help can provide effective management strategies.
+    </template>
+  </category>
+  
+  <category>
+    <pattern>WHAT ARE THE SYMPTOMS OF DEPRESSION?</pattern>
+    <template>
+      Symptoms of depression can include low mood, fatigue, changes in appetite or weight, sleep disturbances, difficulty concentrating, and feelings of worthlessness. It's important to consult a mental health professional for accurate diagnosis and appropriate treatment.
+    </template>
+  </category>
+  
+  <category>
+    <pattern>HOW IS DEPRESSION TREATED?</pattern>
+    <template>
+      Depression can be managed through therapy, medication, or a combination of both. Cognitive-Behavioral Therapy (CBT) helps identify and challenge negative thought patterns. Antidepressant medications may be prescribed by a healthcare provider to alleviate symptoms. Other therapeutic approaches like Mindfulness-Based Cognitive Therapy (MBCT) can also be effective.
+    </template>
+  </category>
+  
+  <category>
+    <pattern>WHAT CAN I DO TO COPE WITH DEPRESSION?</pattern>
+    <template>
+      Coping with depression involves practicing self-care, engaging in physical activity, maintaining a supportive social network, and seeking professional help. Setting small goals and practicing positive self-talk can also contribute to managing symptoms. Remember that reaching out for support is a positive step toward managing depression.
+    </template>
+  </category>
+</aiml>
+

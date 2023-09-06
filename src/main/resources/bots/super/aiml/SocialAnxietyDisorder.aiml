@@ -1,0 +1,30 @@
+<aiml version="1.0">
+  <category>
+    <pattern>TELL ME ABOUT SOCIAL ANXIETY DISORDER</pattern>
+    <template>
+      Social Anxiety Disorder, also known as social phobia, is a mental health condition characterized by intense fear of social situations. Individuals with this disorder may experience extreme discomfort in situations where they feel they are being watched or judged. Seeking professional help is important for managing social anxiety.
+    </template>
+  </category>
+  
+  <category>
+    <pattern>WHAT ARE THE SYMPTOMS OF SOCIAL ANXIETY?</pattern>
+    <template>
+      Symptoms of Social Anxiety Disorder can include excessive self-consciousness, fear of humiliation, avoidance of social situations, and physical symptoms like sweating or trembling. It's important to consult a mental health professional for accurate diagnosis and appropriate treatment.
+    </template>
+  </category>
+  
+  <category>
+    <pattern>HOW IS SOCIAL ANXIETY TREATED?</pattern>
+    <template>
+      Social Anxiety Disorder can be effectively managed through therapy and, if necessary, medication. Cognitive-Behavioral Therapy (CBT) can help challenge negative thought patterns and develop coping strategies. Antianxiety medications may be prescribed by a healthcare provider to alleviate symptoms during therapy.
+    </template>
+  </category>
+  
+  <category>
+    <pattern>WHAT CAN I DO TO COPE WITH SOCIAL ANXIETY?</pattern>
+    <template>
+      Coping with social anxiety involves gradual exposure to feared situations, practicing relaxation techniques, and challenging negative self-perceptions. Joining support groups or therapy can provide a safe environment to work on building social confidence. Remember that seeking professional help is a positive step toward managing social anxiety.
+    </template>
+  </category>
+</aiml>
+

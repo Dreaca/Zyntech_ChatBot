@@ -1,0 +1,35 @@
+<aiml version="1.0.1" encoding="UTF-8">
+  <!-- AIML file to provide support for depression -->
+
+  <!-- Pattern for expressing feelings of depression -->
+  <category>
+    <pattern>* feel depressed *</pattern>
+    <template>
+      I'm really sorry to hear that you're feeling this way. It's important to talk to someone who can help. You might want to consider reaching out to a mental health professional or a trusted person in your life. Remember, you don't have to go through this alone.
+    </template>
+  </category>
+
+  <!-- Pattern for expressing empathy -->
+  <category>
+    <pattern>* depression sucks *</pattern>
+    <template>
+      I understand that depression can be incredibly challenging. It's okay to feel this way, but please consider seeking support. Talking to a professional or someone you trust can make a big difference.
+    </template>
+  </category>
+
+  <!-- Pattern for providing a helpline number -->
+  <category>
+    <pattern>* depression helpline *</pattern>
+    <template>
+      If you're in immediate need of help, please consider calling a depression helpline or crisis hotline. Your well-being is important. Here's a helpline you can call: [Insert helpline number]. Don't hesitate to reach out.
+    </template>
+  </category>
+
+  <!-- Default response for all other cases -->
+  <category>
+    <pattern>*</pattern>
+    <template>
+      I'm here to listen and provide support, but remember, I'm not a substitute for professional help. Please consider talking to a therapist, counselor, or a trusted person in your life who can assist you with your feelings.
+    </template>
+  </category>
+</aiml>

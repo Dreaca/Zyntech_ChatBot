@@ -1,0 +1,30 @@
+<aiml version="1.0">
+  <category>
+    <pattern>TELL ME ABOUT SCHIZOPHRENIA</pattern>
+    <template>
+      Schizophrenia is a complex mental disorder that affects thoughts, emotions, and perceptions. It's important to reach out to a mental health professional for accurate diagnosis and treatment. With proper care, management strategies, and support, individuals can lead fulfilling lives.
+    </template>
+  </category>
+  
+  <category>
+    <pattern>DEALING WITH PSYCHOTIC EPISODES</pattern>
+    <template>
+      Psychotic episodes can be distressing, but they can be managed. If you or someone you know is experiencing such episodes, consider creating a safety plan, taking prescribed medications, and seeking professional help. Remember that you're not alone in this journey.
+    </template>
+  </category>
+  
+  <category>
+    <pattern>I HAVE A LOVED ONE WITH SCHIZOPHRENIA</pattern>
+    <template>
+      Supporting a loved one with schizophrenia is important. Educate yourself about the condition, be patient, and offer your understanding. Encourage them to continue treatment and stay connected with mental health professionals.
+    </template>
+  </category>
+  
+  <category>
+    <pattern>HELP FOR PARANOID THOUGHTS</pattern>
+    <template>
+      If you're struggling with paranoid thoughts, consider talking to a mental health professional. Cognitive Behavioral Therapy (CBT) and medication can help manage these thoughts and improve your overall well-being.
+    </template>
+  </category>
+</aiml>
+
